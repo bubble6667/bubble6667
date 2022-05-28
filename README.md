@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bubble6667
 - 👀 I’m interested in all kindsa stuff, robots, ML, games
-- 🌱 I’m currently learning Python, and git..
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on nothing for now just figuring git out probly gonna try to upload a resume
 - 📫 How to reach me well i don't really need to be reached atm.
 
